@@ -10,7 +10,8 @@ categories: jekyll update
 I'm currently working on this Website / Blog, <br>
 and I'm learning Java and Lua. <br>
 I wanted to make this Website / Blog because I am programming since 1 year now, and I don't really had a Project to start with, so I decided to start my personal Website as a Project to learn HTML, CSS, and Jekyll. <br>
-If you want to contact me you can do it on [Instagram], [Twitter] or [Snapchat]. You can also check out my [GitHub] account.<br></span>
+If you want to contact me you can do it on [Instagram]. You can also check out my [GitHub] account, where you can look at the repository of this website and also check out my neovim configuration..<br></span>
+
 
 [Instagram]: https://instagram.com/luc4schre1ner
 [Twitter]: https://www.twitter.com/LucaSchreiner1
