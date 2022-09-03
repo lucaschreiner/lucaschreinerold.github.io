@@ -6,9 +6,9 @@ categories: jekyll update
 ---
 <!-- #616161  -->
 
-<span style="font-size: 25px; color: #4E4949; font-family: Tahoma">Hi! I am Luca, I'm just a High School student from Germany. <br>
+<span style="font-size: 25px; color: #4E4949; font-family: Tahoma">Hi! I am Luca, I'm just a regular 16 years old High School student from Germany. <br>
 I'm currently working on this Website / Blog, <br>
-and I'm learning Java and Lua. <br>
+and I'm learning Java and HTML. <br>
 I wanted to make this Website / Blog because I am programming since 1 year now, and I don't really had a Project to start with, so I decided to start my personal Website as a Project to learn HTML, CSS, and Jekyll. <br>
 If you want to contact me you can do it on [Instagram]. You can also check out my [GitHub] account, where you can look at the repository of this website and also check out my neovim configuration..<br></span>
 
